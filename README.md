@@ -1,4 +1,4 @@
-# Bilal Ijaz – Portfolio
+# Muhammad Bilal – Portfolio
 
 Personal portfolio site, live at **https://bilalijaz003.github.io**.
 
